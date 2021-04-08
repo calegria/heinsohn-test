@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: heinsohn-test
+
+server:
+  port: ${PORT_CARRITO:87}
+  address: 0.0.0.0
+  servlet:
+    context-path: /binario
+
+info:
+  status: UP
+  
+url: /permutaciones

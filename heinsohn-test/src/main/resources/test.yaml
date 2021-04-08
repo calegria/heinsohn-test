@@ -1,0 +1,2 @@
+request: {"permutaciones":1,"input":[{"valor":1},{"valor":0},{"valor":1},{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":1}]}
+response: {"output":[{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":0},{"valor":1},{"valor":1},{"valor":1}]}
